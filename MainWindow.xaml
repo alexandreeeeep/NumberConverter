@@ -1,0 +1,33 @@
+﻿<Window x:Class="ConvertionsApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConvertionsApplication"
+        Title="NumberConvertions" Height="330" Width="600" ResizeMode="NoResize" >
+    <Grid>
+        <Label x:Name="Conversion" Content="" HorizontalAlignment="Left" Margin="237,36,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ToValue" Content="" HorizontalAlignment="Right" Margin="0,70,300,0" VerticalAlignment="Top"/>
+        <Label x:Name="FromValue" Content="" HorizontalAlignment="Left" Margin="280,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="OutPut" Content="" HorizontalAlignment="Left" Margin="300,166,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Input" HorizontalAlignment="Left" Margin="126,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="CalculateResult"/>
+
+        <StackPanel Margin="-114,134,114,-134">
+            <ComboBox x:Name="ToComboBox" Width="150" SelectionChanged="ToComboBox_SelectionChanged">
+                <ComboBoxItem Content="Hexidecimal"/>
+                <ComboBoxItem Content="Denary"/>
+                <ComboBoxItem Content="Binary"/>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Margin="78,133,-78,-134">
+            <ComboBox x:Name="FromComboBox" Width="150" AutomationProperties.HelpText="Enter" SelectionChanged="FromComboBox_SelectionChanged">
+                <ComboBoxItem Content="Hexidecimal"/>
+                <ComboBoxItem Content="Denary"/>
+                <ComboBoxItem Content="Binary"/>
+            </ComboBox>
+        </StackPanel>
+        <Button Content="Swap" HorizontalAlignment="Left" Margin="260,135,0,0" VerticalAlignment="Top" Click="SwapButton" Width="33"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="260,165,0,0" VerticalAlignment="Top" Click="ClearButton" Width="33"/>
+        <Label x:Name="ErrorLable" Content="" Margin="305,179,156,63"/>
+    </Grid>
+</Window>
