@@ -18,3 +18,23 @@ C:\Users\alexa\source\repos\ConvertionsApplication\obj\Debug\Conversions Applica
 C:\Users\alexa\source\repos\ConvertionsApplication\obj\Debug\Conversions Application.application
 C:\Users\alexa\source\repos\ConvertionsApplication\obj\Debug\Conversions Application.exe
 C:\Users\alexa\source\repos\ConvertionsApplication\obj\Debug\Conversions Application.pdb
+C:\Users\alexa\source\repos\NumberConverter\bin\Debug\Conversions Application.exe.config
+C:\Users\alexa\source\repos\NumberConverter\bin\Debug\Conversions Application.exe.manifest
+C:\Users\alexa\source\repos\NumberConverter\bin\Debug\Conversions Application.application
+C:\Users\alexa\source\repos\NumberConverter\bin\Debug\Conversions Application.exe
+C:\Users\alexa\source\repos\NumberConverter\bin\Debug\Conversions Application.pdb
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\ConvertionsApplication.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\ConvertionsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\App.g.cs
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application_MarkupCompile.cache
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application_MarkupCompile.lref
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\MainWindow.baml
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application.g.resources
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\ConvertionsApplication.Properties.Resources.resources
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\ConvertionsApplication.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\ConvertionsApplication.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application.exe.manifest
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application.application
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application.exe
+C:\Users\alexa\source\repos\NumberConverter\obj\Debug\Conversions Application.pdb
